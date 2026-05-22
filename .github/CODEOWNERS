@@ -1,0 +1,9 @@
+# 모든 파일 변경 시 기본 리뷰어
+* @LuckyUnit/developers
+
+# Java 소스 파일
+*.java @LuckyUnit/developers
+
+# 설정 파일
+*.yml @LuckyUnit/developers
+*.properties @LuckyUnit/developers
